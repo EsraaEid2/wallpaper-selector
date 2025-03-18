@@ -1,0 +1,55 @@
+[18-Mar-2025 21:27:24 Europe/Berlin] PHP Warning:  require_once(../controls/api_response.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wallpaper-selector\api\config.php on line 5
+[18-Mar-2025 21:27:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../controls/api_response.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wallpaper-selector\api\config.php:5
+Stack trace:
+#0 C:\xampp\htdocs\wallpaper-selector\api\wallpaper.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\wallpaper-selector\api\config.php on line 5
+[18-Mar-2025 21:38:42 Europe/Berlin] PHP Warning:  require_once(../controls/api_response.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wallpaper-selector\api\config.php on line 5
+[18-Mar-2025 21:38:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../controls/api_response.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wallpaper-selector\api\config.php:5
+Stack trace:
+#0 C:\xampp\htdocs\wallpaper-selector\api\wallpaper.php(3): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\wallpaper-selector\api\config.php on line 5
+[18-Mar-2025 21:39:27 Europe/Berlin] Local Now: 2025-03-19 07:39:27 AEDT
+[18-Mar-2025 21:39:27 Europe/Berlin] Local Sunrise: 2025-03-18 07:19:52 AEDT
+[18-Mar-2025 21:39:27 Europe/Berlin] Local Sunset: 2025-03-18 19:36:35 AEDT
+[18-Mar-2025 21:39:38 Europe/Berlin] Local Now: 2025-03-19 07:39:38 AEDT
+[18-Mar-2025 21:39:38 Europe/Berlin] Local Sunrise: 2025-03-18 07:19:52 AEDT
+[18-Mar-2025 21:39:38 Europe/Berlin] Local Sunset: 2025-03-18 19:36:35 AEDT
+[18-Mar-2025 21:39:52 Europe/Berlin] Local Now: 2025-03-19 06:39:52 AEST
+[18-Mar-2025 21:39:52 Europe/Berlin] Local Sunrise: 2025-03-18 06:06:20 AEST
+[18-Mar-2025 21:39:52 Europe/Berlin] Local Sunset: 2025-03-18 18:50:08 AEST
+[18-Mar-2025 21:41:55 Europe/Berlin] Local Now: 2025-03-19 06:41:55 AEST
+[18-Mar-2025 21:41:55 Europe/Berlin] Local Sunrise: 2025-03-18 06:06:20 AEST
+[18-Mar-2025 21:41:55 Europe/Berlin] Local Sunset: 2025-03-18 18:50:08 AEST
+[18-Mar-2025 21:46:50 Europe/Berlin] PHP Warning:  Undefined variable $timezoneData in C:\xampp\htdocs\wallpaper-selector\api\wallpaper.php on line 37
+[18-Mar-2025 21:46:50 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\wallpaper-selector\api\wallpaper.php on line 37
+[18-Mar-2025 21:46:50 Europe/Berlin] PHP Warning:  Undefined variable $timezoneData in C:\xampp\htdocs\wallpaper-selector\api\wallpaper.php on line 39
+[18-Mar-2025 21:46:50 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\wallpaper-selector\api\wallpaper.php on line 39
+[18-Mar-2025 21:46:50 Europe/Berlin] Invalid timezone: 
+[18-Mar-2025 21:50:31 Europe/Berlin] Timezone API request failed
+[18-Mar-2025 21:51:04 Europe/Berlin] Timezone API request failed
+[18-Mar-2025 21:52:33 Europe/Berlin] Local Now: 2025-03-19 07:52:33 AEDT
+[18-Mar-2025 21:52:33 Europe/Berlin] Local Sunrise: 2025-03-18 07:19:52 AEDT
+[18-Mar-2025 21:52:33 Europe/Berlin] Local Sunset: 2025-03-18 19:36:35 AEDT
+[18-Mar-2025 21:52:47 Europe/Berlin] Local Now: 2025-03-19 07:52:47 AEDT
+[18-Mar-2025 21:52:47 Europe/Berlin] Local Sunrise: 2025-03-18 07:19:52 AEDT
+[18-Mar-2025 21:52:47 Europe/Berlin] Local Sunset: 2025-03-18 19:36:35 AEDT
+[18-Mar-2025 21:58:57 Europe/Berlin] Local Now: 2025-03-19 07:58:57 AEDT
+[18-Mar-2025 21:58:57 Europe/Berlin] Local Sunrise: 2025-03-18 07:19:52 AEDT
+[18-Mar-2025 21:58:57 Europe/Berlin] Local Sunset: 2025-03-18 19:36:35 AEDT
+[18-Mar-2025 21:59:18 Europe/Berlin] Local Now: 2025-03-19 07:59:18 AEDT
+[18-Mar-2025 21:59:18 Europe/Berlin] Local Sunrise: 2025-03-18 07:19:52 AEDT
+[18-Mar-2025 21:59:18 Europe/Berlin] Local Sunset: 2025-03-18 19:36:35 AEDT
+[18-Mar-2025 22:00:33 Europe/Berlin] Local Now: 2025-03-19 08:00:33 AEDT
+[18-Mar-2025 22:00:33 Europe/Berlin] Local Sunrise: 2025-03-18 07:19:52 AEDT
+[18-Mar-2025 22:00:33 Europe/Berlin] Local Sunset: 2025-03-18 19:36:35 AEDT
+[18-Mar-2025 22:02:40 Europe/Berlin] Actual Local Now: 2025-03-19 08:02:40 AEDT
+[18-Mar-2025 22:02:51 Europe/Berlin] Actual Local Now: 2025-03-19 07:02:51 AEST
+[18-Mar-2025 22:03:01 Europe/Berlin] Actual Local Now: 2025-03-19 08:03:01 AEDT
+[18-Mar-2025 22:06:35 Europe/Berlin] الوقت المحلي الفعلي: 2025-03-19 08:06:35 AEDT
+[18-Mar-2025 22:06:35 Europe/Berlin] PHP Warning:  DateTime::modify(): Failed to parse time string (+1 يوم) at position 3 (�): Unexpected character in C:\xampp\htdocs\wallpaper-selector\api\wallpaper.php on line 53
+[18-Mar-2025 22:06:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\xampp\htdocs\wallpaper-selector\api\wallpaper.php:53
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\wallpaper-selector\api\wallpaper.php on line 53
